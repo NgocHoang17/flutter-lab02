@@ -12,7 +12,7 @@ void main() {
     expect(find.byType(CircleAvatar), findsOneWidget);
 
     // Verify that the user name is displayed.
-    expect(find.text('Nguyen Van A'), findsOneWidget);
+    expect(find.text('Chu Ngọc Hoàng'), findsOneWidget);
 
     // Verify that the job title "FLUTTER DEVELOPER" is displayed.
     expect(find.text('FLUTTER DEVELOPER'), findsOneWidget);
