@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Flutter application entry point.
 void main() {
   runApp(const MiCardApp());
 }
